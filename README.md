@@ -76,7 +76,7 @@ Após terminar o Build, realize os testes e veja se seu ambiente esta funcionand
 >
 > 2- O ambiente possui um arquivo **.env** onde você pode configurar algumas opções. Sempre que você alterar esse arquivo, será necessário rodar o comando com a flag ``--build`` novamente: **docker-compose up -d --build**
 
-# Instalação Mac IOS
+# Instalação Mac OS
 ### Pré-requisitos  #####
  ---------------------------------
 #### 1 - Docker Desktop for Mac
@@ -105,7 +105,7 @@ No caso do Docker-Desktop o IP é o 127.0.0.1, e você não consiguirá utilizar
 
 | Serviço | Link | Acesso e Porta | Descrição
 | ------ | ------ | ---- | ---- |
-| Web | http://192.168.99.100  | definidos no arquivo .env | Servidor Apache
+| Web | http://192.168.99.100  | definidos no arquivo .env | Servidor Nginx
 | Mailhog | http://192.168.99.100:8025 | definidos no arquivo .env | Sevidor de e-mails Fake
 | Cache (Redis) | - | definidos no arquivo .env | Servidor de cache
 
