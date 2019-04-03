@@ -96,6 +96,8 @@ $ git clone https://github.com/rcngo/docker-php-nginx-oci8.git
 $ cd docker-php-nginx-oci8
 $ docker-compose up -d --build
 ```
+> **Nota:**
+No caso do Docker-Desktop o IP é o 127.0.0.1, e você não consiguirá utilizar o docker-machine ip para visualização do mesmo, pois não é necessário virtualização da mesma forma que é necessário com o Docker-toolbox.
 
 ## Serviços
 
