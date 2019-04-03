@@ -2,7 +2,7 @@
 
 ## PHP 7.1.15 ( oci8, ldap, soap ) + Nginx + Redis + Mailhog
 
-Este é ambiente de desenvolvimento PHP Laravel em containers Docker. Ele foi criado principalmente para rodar em ambientes Windows com VirtualBox, mas funciona normalmente em outras plataformas.
+Este é um ambiente de desenvolvimento PHP Laravel em containers Docker. Ele foi criado principalmente para rodar em ambientes Windows com VirtualBox, mas funciona normalmente em outras plataformas.
 
 ### Estrutura ###
 
